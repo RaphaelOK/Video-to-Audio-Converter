@@ -1,0 +1,19 @@
+Video to Audio Converter in Python
+This is a Python script that allows you to convert video files to audio files.
+
+Dependencies
+This script requires the following dependencies:
+
+moviepy
+pydub
+You can install these dependencies using pip. For example:
+
+pip install moviepy pydub
+
+To use this script, follow these steps:
+
+Run the script in your terminal by typing python video_to_audio_converter.py
+Select the path to the video file you want to convert
+Enter the path and name of the output audio file you want to create
+Wait for the script to convert the video to audio
+Note: This script only works with video files that can be handled by the moviepy library, such as .mp4, .avi, .mov, etc.
